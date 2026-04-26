@@ -1,0 +1,29 @@
+class Solution {
+    public void sortColors(int[] nums) {
+        //DUTCH NATIONAL ALGORITHM 
+        int left=0;
+        int right =nums.length-1;
+        int mid =0;
+        while(mid <=right ){
+            if(nums[mid]==0){
+                swap(nums,mid,left);
+                left ++;
+                mid ++;
+            }else if(nums[mid]==1){
+                mid ++;
+            }else{
+                swap(nums,mid,right);
+                right --;
+            }
+
+        }
+        
+        
+
+    }
+    private void swap(int []nums,int i,int j){
+        int temp=nums[i];
+        nums[i]=nums[j];
+        nums[j]=temp;
+    } 
+}
