@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/25shivansh/dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0229-majority-element-ii](https://github.com/25shivansh/dsa/tree/master/0229-majority-element-ii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/25shivansh/dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1732-find-the-highest-altitude](https://github.com/25shivansh/dsa/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/25shivansh/dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3225-maximum-score-from-grid-operations](https://github.com/25shivansh/dsa/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 ## Two Pointers
@@ -49,5 +50,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/25shivansh/dsa/tree/master/1732-find-the-highest-altitude) |
 | [3225-maximum-score-from-grid-operations](https://github.com/25shivansh/dsa/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 <!---LeetCode Topics End-->
