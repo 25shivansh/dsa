@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/25shivansh/dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0141-linked-list-cycle](https://github.com/25shivansh/dsa/tree/main/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/25shivansh/dsa/tree/main/0189-rotate-array/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/25shivansh/dsa/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Depth-First Search
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/25shivansh/dsa/tree/main/0141-linked-list-cycle/) | Easy |
 | [0229-majority-element-ii](https://github.com/25shivansh/dsa/tree/master/0229-majority-element-ii) |
 | [0525-contiguous-array](https://github.com/25shivansh/dsa/tree/main/0525-contiguous-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/25shivansh/dsa/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/25shivansh/dsa/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/25shivansh/dsa/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/25shivansh/dsa/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/25shivansh/dsa/tree/main/0876-middle-of-the-linked-list/) | Easy |
