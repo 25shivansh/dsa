@@ -122,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/25shivansh/dsa/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/25shivansh/dsa/tree/main/0206-reverse-linked-list/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0585-investments-in-2016](https://github.com/25shivansh/dsa/tree/main/0585-investments-in-2016/) | Medium |
 <!---LeetCode Topics End-->
