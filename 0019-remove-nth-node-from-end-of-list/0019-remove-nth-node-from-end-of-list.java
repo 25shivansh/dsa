@@ -10,28 +10,59 @@
  */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        // Calculate the size 
-        ListNode curr =head ;
-        int size =0;
-        while(curr!=null){
-            size ++;
-            curr=curr.next ;
+        // BRUTE FORCE APPROACH 
+        head =reverse(head);
+        if(n==1){
+            
+            return reverse(head.next) ;
         }
-        // base case 
-        if(n==size){
-            // it means we have to delete the first node 
-            head =head.next ;
-            return head ;
-        }
-        // find  nth node 
+        ListNode curr=head ;
         int i=1;
-        int iToFind=size -n;
-        ListNode prev=head ;
-        while(i<iToFind){
-            prev =prev.next ;
+        
+        while(i<n-1){
+            curr=curr.next ;
             i++;
         }
-        prev.next=prev.next.next ;
-        return head ;
+        if(curr.next!=null){
+            curr.next =curr.next.next ;
+        }
+        
+        return reverse(head);
+
+        // Calculate the size 
+        // ListNode curr =head ;
+        // int size =0;
+        // while(curr!=null){
+        //     size ++;
+        //     curr=curr.next ;
+        // }
+        // // base case 
+        // if(n==size){
+        //     // it means we have to delete the first node 
+        //     head =head.next ;
+        //     return head ;
+        // }
+        // // find  nth node 
+        // int i=1;
+        // int iToFind=size -n;
+        // ListNode prev=head ;
+        // while(i<iToFind){
+        //     prev =prev.next ;
+        //     i++;
+        // }
+        // prev.next=prev.next.next ;
+        // return head ;
+
+    }
+    private ListNode reverse(ListNode head){
+        ListNode prev=null;
+        ListNode curr=head ;
+        while(curr!=null){
+            ListNode next =curr.next ;
+            curr.next =prev ;
+            prev=curr;
+            curr=next ;
+        }
+        return prev ;
     }
 }
