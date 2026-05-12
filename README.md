@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/25shivansh/dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/25shivansh/dsa/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/25shivansh/dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/25shivansh/dsa/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/25shivansh/dsa/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/25shivansh/dsa/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/25shivansh/dsa/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -153,5 +154,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/25shivansh/dsa/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/25shivansh/dsa/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
