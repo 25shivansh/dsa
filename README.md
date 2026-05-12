@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/25shivansh/dsa/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0061-rotate-list](https://github.com/25shivansh/dsa/tree/main/0061-rotate-list/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/25shivansh/dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/25shivansh/dsa/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/25shivansh/dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/25shivansh/dsa/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/25shivansh/dsa/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0061-rotate-list](https://github.com/25shivansh/dsa/tree/main/0061-rotate-list/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/25shivansh/dsa/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/25shivansh/dsa/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/25shivansh/dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
