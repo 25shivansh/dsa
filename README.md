@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/25shivansh/dsa/tree/main/0178-rank-scores/) | Medium |
 | [0184-department-highest-salary](https://github.com/25shivansh/dsa/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/25shivansh/dsa/tree/main/0185-department-top-three-salaries/) | Hard |
+| [0197-rising-temperature](https://github.com/25shivansh/dsa/tree/main/0197-rising-temperature/) | Easy |
 | [0585-investments-in-2016](https://github.com/25shivansh/dsa/tree/main/0585-investments-in-2016/) | Medium |
 | [1321-restaurant-growth](https://github.com/25shivansh/dsa/tree/main/1321-restaurant-growth/) | Medium |
 ## Simulation
