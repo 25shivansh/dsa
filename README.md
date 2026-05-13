@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0177-nth-highest-salary](https://github.com/25shivansh/dsa/tree/main/0177-nth-highest-salary/) | Medium |
 | [0178-rank-scores](https://github.com/25shivansh/dsa/tree/main/0178-rank-scores/) | Medium |
 | [0585-investments-in-2016](https://github.com/25shivansh/dsa/tree/main/0585-investments-in-2016/) | Medium |
 | [1321-restaurant-growth](https://github.com/25shivansh/dsa/tree/main/1321-restaurant-growth/) | Medium |
