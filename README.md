@@ -41,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/25shivansh/dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/25shivansh/dsa/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/25shivansh/dsa/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/25shivansh/dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/25shivansh/dsa/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/25shivansh/dsa/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,10 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/25shivansh/dsa/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/25shivansh/dsa/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/25shivansh/dsa/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/25shivansh/dsa/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
