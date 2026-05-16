@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/25shivansh/dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/25shivansh/dsa/tree/main/0053-maximum-subarray/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/25shivansh/dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/25shivansh/dsa/tree/main/0189-rotate-array/) | Medium |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/25shivansh/dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/25shivansh/dsa/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/25shivansh/dsa/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Sliding Window
