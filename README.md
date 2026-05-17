@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/25shivansh/dsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/25shivansh/dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/25shivansh/dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/25shivansh/dsa/tree/main/0053-maximum-subarray/) | Medium |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/25shivansh/dsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/25shivansh/dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/25shivansh/dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0278-first-bad-version](https://github.com/25shivansh/dsa/tree/main/0278-first-bad-version/) | Easy |
