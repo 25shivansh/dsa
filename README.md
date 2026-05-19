@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/25shivansh/dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1480-running-sum-of-1d-array](https://github.com/25shivansh/dsa/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/25shivansh/dsa/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/25shivansh/dsa/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/25shivansh/dsa/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/25shivansh/dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1914-cyclically-rotating-a-grid](https://github.com/25shivansh/dsa/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/25shivansh/dsa/tree/main/0278-first-bad-version/) | Easy |
 | [0704-binary-search](https://github.com/25shivansh/dsa/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/25shivansh/dsa/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/25shivansh/dsa/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
