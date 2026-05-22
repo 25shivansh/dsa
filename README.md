@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-restaurant-growth](https://github.com/25shivansh/dsa/tree/main/1321-restaurant-growth/) | Medium |
 | [1527-patients-with-a-condition](https://github.com/25shivansh/dsa/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/25shivansh/dsa/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/25shivansh/dsa/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
