@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/25shivansh/dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/25shivansh/dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/25shivansh/dsa/tree/main/0053-maximum-subarray/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/25shivansh/dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/25shivansh/dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/25shivansh/dsa/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/25shivansh/dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/25shivansh/dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/25shivansh/dsa/tree/main/0200-number-of-islands/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/25shivansh/dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/25shivansh/dsa/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/25shivansh/dsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/25shivansh/dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/25shivansh/dsa/tree/main/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/25shivansh/dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/25shivansh/dsa/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/25shivansh/dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/25shivansh/dsa/tree/main/0162-find-peak-element/) | Medium |
