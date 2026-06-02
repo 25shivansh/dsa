@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/25shivansh/dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/25shivansh/dsa/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/25shivansh/dsa/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0455-assign-cookies](https://github.com/25shivansh/dsa/tree/main/0455-assign-cookies/) | Easy |
 | [0525-contiguous-array](https://github.com/25shivansh/dsa/tree/main/0525-contiguous-array/) | Medium |
 | [0704-binary-search](https://github.com/25shivansh/dsa/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/25shivansh/dsa/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/25shivansh/dsa/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/25shivansh/dsa/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0392-is-subsequence](https://github.com/25shivansh/dsa/tree/main/0392-is-subsequence/) | Easy |
+| [0455-assign-cookies](https://github.com/25shivansh/dsa/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/25shivansh/dsa/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/25shivansh/dsa/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Depth-First Search
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/25shivansh/dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/25shivansh/dsa/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/25shivansh/dsa/tree/main/0455-assign-cookies/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/25shivansh/dsa/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/25shivansh/dsa/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Counting
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/25shivansh/dsa/tree/main/0455-assign-cookies/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/25shivansh/dsa/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/25shivansh/dsa/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 <!---LeetCode Topics End-->
