@@ -1,8 +1,9 @@
 class Solution {
     public boolean checkValidString(String s) {
+        int n = s.length();
         int low = 0;
         int high = 0;
-        for(char ch : s.toCharArray()){
+        for(char ch :s.toCharArray()){
             if(ch=='('){
                 low ++;
                 high ++;
