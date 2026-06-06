@@ -1,33 +1,17 @@
 class Solution {
-    
     public int jump(int[] nums) {
+        int minJump = 0;
+        int maxReach = 0;
+        int jump=0;
         int n = nums.length ;
-        int []dp=new int[n+1];
-        for(int i = 0;i<n;i++){
-            dp[i]=Integer.MAX_VALUE;
-        }
-        dp[0]=0;
-        for(int i = 1;i<n;i++){
-            for(int j =0;j<i;j++){
-                if(dp[j]!=Integer.MAX_VALUE && j+ nums[j]>=i)
-                dp[i]=Math.min(dp[i],1+dp[j]);
+        
+        for(int i = 0;i<n-1;i++){
+            maxReach = Math.max(maxReach,i+nums[i]);
+            if(i==minJump){
+                jump ++;
+                minJump=maxReach;
             }
         }
-        return dp[n-1];
-        // return solve(nums,0,n);
+        return jump ;
     }
-    // private int solve(int []nums,int idx ,int n ){
-    //     int ans = Integer.MAX_VALUE;
-    //     if(idx>=n-1 )return 0;
-    //     if(dp[idx]!=null)return dp[idx];
-    //     for(int i = 1;i<=nums[idx];i++){
-    //          int take = solve(nums,idx+i,n);
-    //          if(take!=Integer.MAX_VALUE){
-    //             ans = Math.min(ans,1+take);
-    //          }
-             
-    //     }
-    //     dp[idx]=ans ;
-    //     return dp[idx] ;
-    // }
 }
