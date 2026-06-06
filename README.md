@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/25shivansh/dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/25shivansh/dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/25shivansh/dsa/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/25shivansh/dsa/tree/main/0055-jump-game/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/25shivansh/dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/25shivansh/dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/25shivansh/dsa/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/25shivansh/dsa/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/25shivansh/dsa/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/25shivansh/dsa/tree/main/0055-jump-game/) | Medium |
 | [0392-is-subsequence](https://github.com/25shivansh/dsa/tree/main/0392-is-subsequence/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/25shivansh/dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/25shivansh/dsa/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/25shivansh/dsa/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/25shivansh/dsa/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/25shivansh/dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/25shivansh/dsa/tree/main/0860-lemonade-change/) | Easy |
