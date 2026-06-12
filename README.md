@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/25shivansh/dsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/25shivansh/dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/25shivansh/dsa/tree/main/0035-search-insert-position/) | Easy |
+| [0039-combination-sum](https://github.com/25shivansh/dsa/tree/main/0039-combination-sum/) | Medium |
 | [0045-jump-game-ii](https://github.com/25shivansh/dsa/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/25shivansh/dsa/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/25shivansh/dsa/tree/main/0055-jump-game/) | Medium |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/25shivansh/dsa/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/25shivansh/dsa/tree/main/0078-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
