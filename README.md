@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/25shivansh/dsa/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/25shivansh/dsa/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/25shivansh/dsa/tree/main/0062-unique-paths/) | Medium |
+| [0072-edit-distance](https://github.com/25shivansh/dsa/tree/main/0072-edit-distance/) | Medium |
 | [0392-is-subsequence](https://github.com/25shivansh/dsa/tree/main/0392-is-subsequence/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/25shivansh/dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/25shivansh/dsa/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/25shivansh/dsa/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/25shivansh/dsa/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/25shivansh/dsa/tree/main/0013-roman-to-integer/) | Easy |
+| [0072-edit-distance](https://github.com/25shivansh/dsa/tree/main/0072-edit-distance/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/25shivansh/dsa/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0179-largest-number](https://github.com/25shivansh/dsa/tree/main/0179-largest-number/) | Medium |
 | [0392-is-subsequence](https://github.com/25shivansh/dsa/tree/main/0392-is-subsequence/) | Easy |
