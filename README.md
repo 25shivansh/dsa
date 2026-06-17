@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/25shivansh/dsa/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/25shivansh/dsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/25shivansh/dsa/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/25shivansh/dsa/tree/main/0035-search-insert-position/) | Easy |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/25shivansh/dsa/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/25shivansh/dsa/tree/main/0013-roman-to-integer/) | Easy |
 | [0138-copy-list-with-random-pointer](https://github.com/25shivansh/dsa/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/25shivansh/dsa/tree/main/0141-linked-list-cycle/) | Easy |
