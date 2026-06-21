@@ -6,7 +6,7 @@ class Solution {
             if(coins>=cost){
                 coins-=cost;
                 count++;
-            }
+            }else break ;
         }
         return count ;
     }
