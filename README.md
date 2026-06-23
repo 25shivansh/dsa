@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/25shivansh/dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/25shivansh/dsa/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/25shivansh/dsa/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3699-number-of-zigzag-arrays-i](https://github.com/25shivansh/dsa/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/25shivansh/dsa/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/25shivansh/dsa/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/25shivansh/dsa/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3225-maximum-score-from-grid-operations](https://github.com/25shivansh/dsa/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3699-number-of-zigzag-arrays-i](https://github.com/25shivansh/dsa/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
