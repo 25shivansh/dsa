@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/25shivansh/dsa/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/25shivansh/dsa/tree/main/0724-find-pivot-index/) | Easy |
 | [0860-lemonade-change](https://github.com/25shivansh/dsa/tree/main/0860-lemonade-change/) | Easy |
+| [1306-jump-game-iii](https://github.com/25shivansh/dsa/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/25shivansh/dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1480-running-sum-of-1d-array](https://github.com/25shivansh/dsa/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/25shivansh/dsa/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/25shivansh/dsa/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/25shivansh/dsa/tree/main/0207-course-schedule/) | Medium |
+| [1306-jump-game-iii](https://github.com/25shivansh/dsa/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/25shivansh/dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/25shivansh/dsa/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/25shivansh/dsa/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/25shivansh/dsa/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/25shivansh/dsa/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/25shivansh/dsa/tree/main/0322-coin-change/) | Medium |
+| [1306-jump-game-iii](https://github.com/25shivansh/dsa/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/25shivansh/dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/25shivansh/dsa/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/25shivansh/dsa/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
