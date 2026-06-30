@@ -4,20 +4,17 @@ class Solution {
         // dp=new Integer[nums.length+1][nums.length+1];
         // return solve(nums,0,-1);
         //tabulation
-        int n =nums.length;
-        int []dp=new int [n];
-        int maxLis=1;
+        int n = nums.length ;
+        int []dp = new int [n+1];
+        int maxLis=0;
         Arrays.fill(dp,1);
         for(int i =0;i<n;i++){
             for(int j =0;j<i;j++){
                 if(nums[j]<nums[i]){
                     dp[i]=Math.max(dp[i],dp[j]+1);
-
                 }
-                maxLis=Math.max(maxLis,dp[i]);
-                
             }
-            
+            maxLis=Math.max(maxLis,dp[i]);
         }
         return maxLis;
         
