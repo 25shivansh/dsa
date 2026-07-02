@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/25shivansh/dsa/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/25shivansh/dsa/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/25shivansh/dsa/tree/main/0200-number-of-islands/) | Medium |
+| [0213-house-robber-ii](https://github.com/25shivansh/dsa/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/25shivansh/dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/25shivansh/dsa/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/25shivansh/dsa/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/25shivansh/dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/25shivansh/dsa/tree/main/0072-edit-distance/) | Medium |
 | [0198-house-robber](https://github.com/25shivansh/dsa/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/25shivansh/dsa/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/25shivansh/dsa/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/25shivansh/dsa/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/25shivansh/dsa/tree/main/0392-is-subsequence/) | Easy |
