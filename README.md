@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/25shivansh/dsa/tree/main/0525-contiguous-array/) | Medium |
 | [0704-binary-search](https://github.com/25shivansh/dsa/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/25shivansh/dsa/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0721-accounts-merge](https://github.com/25shivansh/dsa/tree/main/0721-accounts-merge/) | Medium |
 | [0724-find-pivot-index](https://github.com/25shivansh/dsa/tree/main/0724-find-pivot-index/) | Easy |
 | [0860-lemonade-change](https://github.com/25shivansh/dsa/tree/main/0860-lemonade-change/) | Easy |
 | [0994-rotting-oranges](https://github.com/25shivansh/dsa/tree/main/0994-rotting-oranges/) | Medium |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/25shivansh/dsa/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/25shivansh/dsa/tree/main/0207-course-schedule/) | Medium |
+| [0721-accounts-merge](https://github.com/25shivansh/dsa/tree/main/0721-accounts-merge/) | Medium |
 | [1306-jump-game-iii](https://github.com/25shivansh/dsa/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/25shivansh/dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/25shivansh/dsa/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/25shivansh/dsa/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/25shivansh/dsa/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/25shivansh/dsa/tree/main/0322-coin-change/) | Medium |
+| [0721-accounts-merge](https://github.com/25shivansh/dsa/tree/main/0721-accounts-merge/) | Medium |
 | [0994-rotting-oranges](https://github.com/25shivansh/dsa/tree/main/0994-rotting-oranges/) | Medium |
 | [1306-jump-game-iii](https://github.com/25shivansh/dsa/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/25shivansh/dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/25shivansh/dsa/tree/main/0200-number-of-islands/) | Medium |
+| [0721-accounts-merge](https://github.com/25shivansh/dsa/tree/main/0721-accounts-merge/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/25shivansh/dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/25shivansh/dsa/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Matrix
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/25shivansh/dsa/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/25shivansh/dsa/tree/master/0229-majority-element-ii) |
 | [0525-contiguous-array](https://github.com/25shivansh/dsa/tree/main/0525-contiguous-array/) | Medium |
+| [0721-accounts-merge](https://github.com/25shivansh/dsa/tree/main/0721-accounts-merge/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/25shivansh/dsa/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/25shivansh/dsa/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/25shivansh/dsa/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -162,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/25shivansh/dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/25shivansh/dsa/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/25shivansh/dsa/tree/main/0455-assign-cookies/) | Easy |
+| [0721-accounts-merge](https://github.com/25shivansh/dsa/tree/main/0721-accounts-merge/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/25shivansh/dsa/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/25shivansh/dsa/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/25shivansh/dsa/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -339,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/25shivansh/dsa/tree/main/0179-largest-number/) | Medium |
 | [0392-is-subsequence](https://github.com/25shivansh/dsa/tree/main/0392-is-subsequence/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/25shivansh/dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0721-accounts-merge](https://github.com/25shivansh/dsa/tree/main/0721-accounts-merge/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/25shivansh/dsa/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/25shivansh/dsa/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/25shivansh/dsa/tree/main/1189-maximum-number-of-balloons/) | Easy |
