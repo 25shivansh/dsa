@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/25shivansh/dsa/tree/main/0724-find-pivot-index/) | Easy |
 | [0860-lemonade-change](https://github.com/25shivansh/dsa/tree/main/0860-lemonade-change/) | Easy |
 | [0994-rotting-oranges](https://github.com/25shivansh/dsa/tree/main/0994-rotting-oranges/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/25shivansh/dsa/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/25shivansh/dsa/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/25shivansh/dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1480-running-sum-of-1d-array](https://github.com/25shivansh/dsa/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/25shivansh/dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/25shivansh/dsa/tree/main/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/25shivansh/dsa/tree/main/0994-rotting-oranges/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/25shivansh/dsa/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/25shivansh/dsa/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/25shivansh/dsa/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/25shivansh/dsa/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/25shivansh/dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/25shivansh/dsa/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/25shivansh/dsa/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/25shivansh/dsa/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/25shivansh/dsa/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/25shivansh/dsa/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/25shivansh/dsa/tree/main/3620-network-recovery-pathways/) | Hard |
