@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/25shivansh/dsa/tree/main/0721-accounts-merge/) | Medium |
 | [0724-find-pivot-index](https://github.com/25shivansh/dsa/tree/main/0724-find-pivot-index/) | Easy |
 | [0860-lemonade-change](https://github.com/25shivansh/dsa/tree/main/0860-lemonade-change/) | Easy |
+| [0881-boats-to-save-people](https://github.com/25shivansh/dsa/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/25shivansh/dsa/tree/main/0948-bag-of-tokens/) | Medium |
 | [0994-rotting-oranges](https://github.com/25shivansh/dsa/tree/main/0994-rotting-oranges/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/25shivansh/dsa/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/25shivansh/dsa/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/25shivansh/dsa/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/25shivansh/dsa/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0881-boats-to-save-people](https://github.com/25shivansh/dsa/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/25shivansh/dsa/tree/main/0948-bag-of-tokens/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/25shivansh/dsa/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/25shivansh/dsa/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/25shivansh/dsa/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/25shivansh/dsa/tree/main/0455-assign-cookies/) | Easy |
 | [0721-accounts-merge](https://github.com/25shivansh/dsa/tree/main/0721-accounts-merge/) | Medium |
+| [0881-boats-to-save-people](https://github.com/25shivansh/dsa/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/25shivansh/dsa/tree/main/0948-bag-of-tokens/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/25shivansh/dsa/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/25shivansh/dsa/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/25shivansh/dsa/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/25shivansh/dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/25shivansh/dsa/tree/main/0860-lemonade-change/) | Easy |
+| [0881-boats-to-save-people](https://github.com/25shivansh/dsa/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/25shivansh/dsa/tree/main/0948-bag-of-tokens/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/25shivansh/dsa/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/25shivansh/dsa/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
