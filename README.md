@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/25shivansh/dsa/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/25shivansh/dsa/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/25shivansh/dsa/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/25shivansh/dsa/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/25shivansh/dsa/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/25shivansh/dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/25shivansh/dsa/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/25shivansh/dsa/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/25shivansh/dsa/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/25shivansh/dsa/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/25shivansh/dsa/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/25shivansh/dsa/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/25shivansh/dsa/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/25shivansh/dsa/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/25shivansh/dsa/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1328-break-a-palindrome](https://github.com/25shivansh/dsa/tree/main/1328-break-a-palindrome/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/25shivansh/dsa/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/25shivansh/dsa/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/25shivansh/dsa/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/25shivansh/dsa/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/25shivansh/dsa/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/25shivansh/dsa/tree/main/0948-bag-of-tokens/) | Medium |
 | [0991-broken-calculator](https://github.com/25shivansh/dsa/tree/main/0991-broken-calculator/) | Medium |
 | [1328-break-a-palindrome](https://github.com/25shivansh/dsa/tree/main/1328-break-a-palindrome/) | Medium |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/25shivansh/dsa/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/25shivansh/dsa/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/25shivansh/dsa/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/25shivansh/dsa/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
