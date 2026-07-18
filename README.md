@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/25shivansh/dsa/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/25shivansh/dsa/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/25shivansh/dsa/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/25shivansh/dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/25shivansh/dsa/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/25shivansh/dsa/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/25shivansh/dsa/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/25shivansh/dsa/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/25shivansh/dsa/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1840-maximum-building-height](https://github.com/25shivansh/dsa/tree/main/1840-maximum-building-height/) | Hard |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/25shivansh/dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/25shivansh/dsa/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/25shivansh/dsa/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/25shivansh/dsa/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -523,4 +525,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/25shivansh/dsa/tree/main/1291-sequential-digits/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/25shivansh/dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
