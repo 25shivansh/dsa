@@ -1,8 +1,6 @@
 class Solution {
     public int maximum69Number (int num) {
-        if(num==999){
-            return num ;
-        }
+        
         StringBuilder sb = new StringBuilder(String.valueOf(num));
         for(int i=0;i<sb.length();i++){
             if(sb.charAt(i)=='6'){
