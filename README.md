@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/25shivansh/dsa/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0197-rising-temperature](https://github.com/25shivansh/dsa/tree/main/0197-rising-temperature/) | Easy |
 | [0585-investments-in-2016](https://github.com/25shivansh/dsa/tree/main/0585-investments-in-2016/) | Medium |
+| [1068-product-sales-analysis-i](https://github.com/25shivansh/dsa/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1321-restaurant-growth](https://github.com/25shivansh/dsa/tree/main/1321-restaurant-growth/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/25shivansh/dsa/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/25shivansh/dsa/tree/main/1527-patients-with-a-condition/) | Easy |
