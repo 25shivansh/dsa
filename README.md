@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/25shivansh/dsa/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/25shivansh/dsa/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/25shivansh/dsa/tree/main/0088-merge-sorted-array/) | Easy |
+| [0136-single-number](https://github.com/25shivansh/dsa/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/25shivansh/dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/25shivansh/dsa/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/25shivansh/dsa/tree/main/0169-majority-element/) | Easy |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/25shivansh/dsa/tree/main/0078-subsets/) | Medium |
+| [0136-single-number](https://github.com/25shivansh/dsa/tree/main/0136-single-number/) | Easy |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/25shivansh/dsa/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/25shivansh/dsa/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/25shivansh/dsa/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
