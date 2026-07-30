@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/25shivansh/dsa/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/25shivansh/dsa/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/25shivansh/dsa/tree/main/0088-merge-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/25shivansh/dsa/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/25shivansh/dsa/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/25shivansh/dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/25shivansh/dsa/tree/main/0162-find-peak-element/) | Medium |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/25shivansh/dsa/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/25shivansh/dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/25shivansh/dsa/tree/main/0072-edit-distance/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/25shivansh/dsa/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/25shivansh/dsa/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/25shivansh/dsa/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/25shivansh/dsa/tree/main/0300-longest-increasing-subsequence/) | Medium |
