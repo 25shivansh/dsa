@@ -14,10 +14,8 @@ class Solution {
             suffix[i]=nums[i]+suffix[i+1];
         }
         for(int i=0;i<n;i++){
-            int left =(i==0)?0:prefix[i-1];
-            int right=(i==n-1)?0:suffix[i+1];
-            if(left ==right){
-                return i;
+            if(suffix[i]==prefix[i]){
+                return i ;
             }
             
         }
