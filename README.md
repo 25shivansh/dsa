@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/25shivansh/dsa/tree/main/0721-accounts-merge/) | Medium |
 | [0724-find-pivot-index](https://github.com/25shivansh/dsa/tree/main/0724-find-pivot-index/) | Easy |
 | [0860-lemonade-change](https://github.com/25shivansh/dsa/tree/main/0860-lemonade-change/) | Easy |
+| [0877-stone-game](https://github.com/25shivansh/dsa/tree/main/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/25shivansh/dsa/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/25shivansh/dsa/tree/main/0948-bag-of-tokens/) | Medium |
 | [0994-rotting-oranges](https://github.com/25shivansh/dsa/tree/main/0994-rotting-oranges/) | Medium |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/25shivansh/dsa/tree/main/0486-predict-the-winner/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/25shivansh/dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/25shivansh/dsa/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0877-stone-game](https://github.com/25shivansh/dsa/tree/main/0877-stone-game/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/25shivansh/dsa/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/25shivansh/dsa/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/25shivansh/dsa/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/25shivansh/dsa/tree/main/0189-rotate-array/) | Medium |
 | [0486-predict-the-winner](https://github.com/25shivansh/dsa/tree/main/0486-predict-the-winner/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/25shivansh/dsa/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0877-stone-game](https://github.com/25shivansh/dsa/tree/main/0877-stone-game/) | Medium |
 | [0991-broken-calculator](https://github.com/25shivansh/dsa/tree/main/0991-broken-calculator/) | Medium |
 | [1323-maximum-69-number](https://github.com/25shivansh/dsa/tree/main/1323-maximum-69-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/25shivansh/dsa/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -585,4 +588,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/25shivansh/dsa/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/25shivansh/dsa/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
