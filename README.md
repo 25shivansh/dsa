@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/25shivansh/dsa/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/25shivansh/dsa/tree/main/0322-coin-change/) | Medium |
 | [0337-house-robber-iii](https://github.com/25shivansh/dsa/tree/main/0337-house-robber-iii/) | Medium |
+| [0343-integer-break](https://github.com/25shivansh/dsa/tree/main/0343-integer-break/) | Medium |
 | [0392-is-subsequence](https://github.com/25shivansh/dsa/tree/main/0392-is-subsequence/) | Easy |
 | [0486-predict-the-winner](https://github.com/25shivansh/dsa/tree/main/0486-predict-the-winner/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/25shivansh/dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/25shivansh/dsa/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/25shivansh/dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/25shivansh/dsa/tree/main/0189-rotate-array/) | Medium |
+| [0343-integer-break](https://github.com/25shivansh/dsa/tree/main/0343-integer-break/) | Medium |
 | [0486-predict-the-winner](https://github.com/25shivansh/dsa/tree/main/0486-predict-the-winner/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/25shivansh/dsa/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0877-stone-game](https://github.com/25shivansh/dsa/tree/main/0877-stone-game/) | Medium |
