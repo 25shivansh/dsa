@@ -605,9 +605,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/25shivansh/dsa/tree/main/0877-stone-game/) | Medium |
 | [1690-stone-game-vii](https://github.com/25shivansh/dsa/tree/main/1690-stone-game-vii/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/25shivansh/dsa/tree/main/0877-stone-game/) | Medium |
 | [1690-stone-game-vii](https://github.com/25shivansh/dsa/tree/main/1690-stone-game-vii/) | Medium |
 <!---LeetCode Topics End-->
