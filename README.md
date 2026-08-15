@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/25shivansh/dsa/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/25shivansh/dsa/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/25shivansh/dsa/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/25shivansh/dsa/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/25shivansh/dsa/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/25shivansh/dsa/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/25shivansh/dsa/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/25shivansh/dsa/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/25shivansh/dsa/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/25shivansh/dsa/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/25shivansh/dsa/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/25shivansh/dsa/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/25shivansh/dsa/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/25shivansh/dsa/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/25shivansh/dsa/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/25shivansh/dsa/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/25shivansh/dsa/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/25shivansh/dsa/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/25shivansh/dsa/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Linked List
