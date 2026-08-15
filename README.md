@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/25shivansh/dsa/tree/main/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/25shivansh/dsa/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/25shivansh/dsa/tree/main/0948-bag-of-tokens/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/25shivansh/dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0994-rotting-oranges](https://github.com/25shivansh/dsa/tree/main/0994-rotting-oranges/) | Medium |
 | [1260-shift-2d-grid](https://github.com/25shivansh/dsa/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/25shivansh/dsa/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/25shivansh/dsa/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/25shivansh/dsa/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/25shivansh/dsa/tree/main/0948-bag-of-tokens/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/25shivansh/dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/25shivansh/dsa/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/25shivansh/dsa/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/25shivansh/dsa/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/25shivansh/dsa/tree/main/0721-accounts-merge/) | Medium |
 | [0881-boats-to-save-people](https://github.com/25shivansh/dsa/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/25shivansh/dsa/tree/main/0948-bag-of-tokens/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/25shivansh/dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/25shivansh/dsa/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/25shivansh/dsa/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/25shivansh/dsa/tree/main/1833-maximum-ice-cream-bars/) | Medium |
