@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/25shivansh/dsa/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/25shivansh/dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/25shivansh/dsa/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2090-k-radius-subarray-averages](https://github.com/25shivansh/dsa/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/25shivansh/dsa/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/25shivansh/dsa/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/25shivansh/dsa/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/25shivansh/dsa/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/25shivansh/dsa/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/25shivansh/dsa/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [2090-k-radius-subarray-averages](https://github.com/25shivansh/dsa/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/25shivansh/dsa/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/25shivansh/dsa/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/25shivansh/dsa/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
