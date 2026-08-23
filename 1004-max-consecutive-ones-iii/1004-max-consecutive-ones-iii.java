@@ -5,7 +5,7 @@ class Solution {
         int right=0;
         int maxLen=0;
         int zeroes=0;
-        while(right<n-1){
+        while(right<n){
             if(nums[right]==0){
                 zeroes++;
                 
