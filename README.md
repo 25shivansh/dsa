@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/25shivansh/dsa/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/25shivansh/dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/25shivansh/dsa/tree/main/0013-roman-to-integer/) | Easy |
+| [0076-minimum-window-substring](https://github.com/25shivansh/dsa/tree/main/0076-minimum-window-substring/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/25shivansh/dsa/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/25shivansh/dsa/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/25shivansh/dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/25shivansh/dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/25shivansh/dsa/tree/main/0076-minimum-window-substring/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/25shivansh/dsa/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/25shivansh/dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/25shivansh/dsa/tree/main/0567-permutation-in-string/) | Medium |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/25shivansh/dsa/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/25shivansh/dsa/tree/main/0014-longest-common-prefix/) | Easy |
 | [0072-edit-distance](https://github.com/25shivansh/dsa/tree/main/0072-edit-distance/) | Medium |
+| [0076-minimum-window-substring](https://github.com/25shivansh/dsa/tree/main/0076-minimum-window-substring/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/25shivansh/dsa/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0179-largest-number](https://github.com/25shivansh/dsa/tree/main/0179-largest-number/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/25shivansh/dsa/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
