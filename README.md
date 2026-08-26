@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/25shivansh/dsa/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/25shivansh/dsa/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/25shivansh/dsa/tree/main/0455-assign-cookies/) | Easy |
+| [0567-permutation-in-string](https://github.com/25shivansh/dsa/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/25shivansh/dsa/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/25shivansh/dsa/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/25shivansh/dsa/tree/main/0948-bag-of-tokens/) | Medium |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/25shivansh/dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/25shivansh/dsa/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/25shivansh/dsa/tree/main/0525-contiguous-array/) | Medium |
+| [0567-permutation-in-string](https://github.com/25shivansh/dsa/tree/main/0567-permutation-in-string/) | Medium |
 | [0721-accounts-merge](https://github.com/25shivansh/dsa/tree/main/0721-accounts-merge/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/25shivansh/dsa/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/25shivansh/dsa/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/25shivansh/dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/25shivansh/dsa/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/25shivansh/dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/25shivansh/dsa/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/25shivansh/dsa/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/25shivansh/dsa/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/25shivansh/dsa/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/25shivansh/dsa/tree/main/0392-is-subsequence/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/25shivansh/dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/25shivansh/dsa/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0567-permutation-in-string](https://github.com/25shivansh/dsa/tree/main/0567-permutation-in-string/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/25shivansh/dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0721-accounts-merge](https://github.com/25shivansh/dsa/tree/main/0721-accounts-merge/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/25shivansh/dsa/tree/main/1021-remove-outermost-parentheses/) | Easy |
