@@ -696,4 +696,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/25shivansh/dsa/tree/main/0239-sliding-window-maximum/) | Hard |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/25shivansh/dsa/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
