@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/25shivansh/dsa/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/25shivansh/dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/25shivansh/dsa/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/25shivansh/dsa/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2090-k-radius-subarray-averages](https://github.com/25shivansh/dsa/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/25shivansh/dsa/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/25shivansh/dsa/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/25shivansh/dsa/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/25shivansh/dsa/tree/main/0948-bag-of-tokens/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/25shivansh/dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/25shivansh/dsa/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/25shivansh/dsa/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/25shivansh/dsa/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/25shivansh/dsa/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/25shivansh/dsa/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/25shivansh/dsa/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/25shivansh/dsa/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/25shivansh/dsa/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/25shivansh/dsa/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/25shivansh/dsa/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/25shivansh/dsa/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/25shivansh/dsa/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/25shivansh/dsa/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1690-stone-game-vii](https://github.com/25shivansh/dsa/tree/main/1690-stone-game-vii/) | Medium |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/25shivansh/dsa/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/25shivansh/dsa/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/25shivansh/dsa/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/25shivansh/dsa/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/25shivansh/dsa/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/25shivansh/dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/25shivansh/dsa/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/25shivansh/dsa/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/25shivansh/dsa/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3161-block-placement-queries](https://github.com/25shivansh/dsa/tree/main/3161-block-placement-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/25shivansh/dsa/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -620,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/25shivansh/dsa/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/25shivansh/dsa/tree/main/0136-single-number/) | Easy |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/25shivansh/dsa/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/25shivansh/dsa/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/25shivansh/dsa/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/25shivansh/dsa/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/25shivansh/dsa/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -703,4 +709,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/25shivansh/dsa/tree/main/1143-longest-common-subsequence/) | Medium |
+## Meet in the Middle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/25shivansh/dsa/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/25shivansh/dsa/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/25shivansh/dsa/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 <!---LeetCode Topics End-->
