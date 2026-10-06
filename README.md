@@ -503,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/25shivansh/dsa/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/25shivansh/dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/25shivansh/dsa/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/25shivansh/dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/25shivansh/dsa/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/25shivansh/dsa/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/25shivansh/dsa/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/25shivansh/dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0721-accounts-merge](https://github.com/25shivansh/dsa/tree/main/0721-accounts-merge/) | Medium |
 | [0856-score-of-parentheses](https://github.com/25shivansh/dsa/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/25shivansh/dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/25shivansh/dsa/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/25shivansh/dsa/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/25shivansh/dsa/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/25shivansh/dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/25shivansh/dsa/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/25shivansh/dsa/tree/main/0881-boats-to-save-people/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/25shivansh/dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0948-bag-of-tokens](https://github.com/25shivansh/dsa/tree/main/0948-bag-of-tokens/) | Medium |
 | [0991-broken-calculator](https://github.com/25shivansh/dsa/tree/main/0991-broken-calculator/) | Medium |
 | [1323-maximum-69-number](https://github.com/25shivansh/dsa/tree/main/1323-maximum-69-number/) | Easy |
@@ -755,4 +758,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/25shivansh/dsa/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/25shivansh/dsa/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/25shivansh/dsa/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/25shivansh/dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
