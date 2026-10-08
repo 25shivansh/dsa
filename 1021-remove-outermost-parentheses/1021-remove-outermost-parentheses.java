@@ -8,7 +8,7 @@ class Solution {
                     sb.append(ch);
                 }
                 st.push(ch);
-            }else{
+            }else{ // ch==(
                 st.pop();
                 if(!st.isEmpty()){
                     sb.append(ch);
