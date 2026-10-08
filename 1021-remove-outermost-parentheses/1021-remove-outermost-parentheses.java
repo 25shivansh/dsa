@@ -8,17 +8,13 @@ class Solution {
                     sb.append(ch);
                 }
                 st.push(ch);
-            }else{ // ch==)
+            }else{
                 st.pop();
                 if(!st.isEmpty()){
                     sb.append(ch);
                 }
-                
-
             }
         }
         return sb.toString();
-        
-        
     }
 }
