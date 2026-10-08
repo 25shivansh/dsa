@@ -762,4 +762,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/25shivansh/dsa/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/25shivansh/dsa/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/25shivansh/dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/25shivansh/dsa/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
