@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/25shivansh/dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/25shivansh/dsa/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/25shivansh/dsa/tree/master/1096-brace-expansion-ii) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/25shivansh/dsa/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/25shivansh/dsa/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/25shivansh/dsa/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/25shivansh/dsa/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/25shivansh/dsa/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/25shivansh/dsa/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/25shivansh/dsa/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/25shivansh/dsa/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/25shivansh/dsa/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/25shivansh/dsa/tree/main/0991-broken-calculator/) | Medium |
 | [1323-maximum-69-number](https://github.com/25shivansh/dsa/tree/main/1323-maximum-69-number/) | Easy |
 | [1328-break-a-palindrome](https://github.com/25shivansh/dsa/tree/main/1328-break-a-palindrome/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/25shivansh/dsa/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/25shivansh/dsa/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/25shivansh/dsa/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/25shivansh/dsa/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -763,4 +766,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/25shivansh/dsa/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/25shivansh/dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/25shivansh/dsa/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/25shivansh/dsa/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 <!---LeetCode Topics End-->
