@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/25shivansh/dsa/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/25shivansh/dsa/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/25shivansh/dsa/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/25shivansh/dsa/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/25shivansh/dsa/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/25shivansh/dsa/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/25shivansh/dsa/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/25shivansh/dsa/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/25shivansh/dsa/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/25shivansh/dsa/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/25shivansh/dsa/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/25shivansh/dsa/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/25shivansh/dsa/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/25shivansh/dsa/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/25shivansh/dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/25shivansh/dsa/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/25shivansh/dsa/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/25shivansh/dsa/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/25shivansh/dsa/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3161-block-placement-queries](https://github.com/25shivansh/dsa/tree/main/3161-block-placement-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/25shivansh/dsa/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/25shivansh/dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/25shivansh/dsa/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/25shivansh/dsa/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/25shivansh/dsa/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/25shivansh/dsa/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/25shivansh/dsa/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/25shivansh/dsa/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -630,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/25shivansh/dsa/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/25shivansh/dsa/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/25shivansh/dsa/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/25shivansh/dsa/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/25shivansh/dsa/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/25shivansh/dsa/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/25shivansh/dsa/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
