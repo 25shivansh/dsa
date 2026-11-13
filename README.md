@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/25shivansh/dsa/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/25shivansh/dsa/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/25shivansh/dsa/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/25shivansh/dsa/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/25shivansh/dsa/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/25shivansh/dsa/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/25shivansh/dsa/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/25shivansh/dsa/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/25shivansh/dsa/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/25shivansh/dsa/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/25shivansh/dsa/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/25shivansh/dsa/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/25shivansh/dsa/tree/master/1096-brace-expansion-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/25shivansh/dsa/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/25shivansh/dsa/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/25shivansh/dsa/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -622,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/25shivansh/dsa/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3161-block-placement-queries](https://github.com/25shivansh/dsa/tree/main/3161-block-placement-queries/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/25shivansh/dsa/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/25shivansh/dsa/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/25shivansh/dsa/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/25shivansh/dsa/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -663,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/25shivansh/dsa/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/25shivansh/dsa/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/25shivansh/dsa/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -749,10 +754,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/25shivansh/dsa/tree/main/0239-sliding-window-maximum/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/25shivansh/dsa/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/25shivansh/dsa/tree/main/0239-sliding-window-maximum/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/25shivansh/dsa/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
