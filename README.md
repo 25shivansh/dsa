@@ -575,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/25shivansh/dsa/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/25shivansh/dsa/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/25shivansh/dsa/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/25shivansh/dsa/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/25shivansh/dsa/tree/main/2131-longest-palindrome-by-concatenating-two-letter-words/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/25shivansh/dsa/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/25shivansh/dsa/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
