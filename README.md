@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/25shivansh/dsa/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/25shivansh/dsa/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/25shivansh/dsa/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2908-minimum-sum-of-mountain-triplets-i](https://github.com/25shivansh/dsa/tree/main/2908-minimum-sum-of-mountain-triplets-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/25shivansh/dsa/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/25shivansh/dsa/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/25shivansh/dsa/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
