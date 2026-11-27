@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/25shivansh/dsa/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/25shivansh/dsa/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/25shivansh/dsa/tree/main/3934-smallest-unique-subarray/) | Hard |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/25shivansh/dsa/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3693-climbing-stairs-ii](https://github.com/25shivansh/dsa/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/25shivansh/dsa/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/25shivansh/dsa/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/25shivansh/dsa/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/25shivansh/dsa/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/25shivansh/dsa/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/25shivansh/dsa/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/25shivansh/dsa/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
